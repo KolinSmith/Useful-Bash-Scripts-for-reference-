@@ -1,0 +1,20 @@
+#!/bin/bash
+current=$(wget http://ipinfo.io/ip -qO -)
+source</home/kolin/ip.txt>
+if["$current" -ne "$now"]
+	email
+else
+	echo now="$current">/home/kolin/ip.txt
+
+
+
+
+
+http://askubuntu.com/questions/367136/how-do-i-read-a-variable-from-a-file
+http://tldp.org/LDP/abs/html/comparison-ops.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-6.html
+https://help.ubuntu.com/community/AutoWeeklyUpdateHowTo
+http://stackoverflow.com/questions/5745303/linux-shell-programming-string-compare-syntax
+http://unix.stackexchange.com/questions/16024/how-can-i-assign-the-output-of-a-command-to-a-shell-variable
+http://ubuntuforums.org/showthread.php?t=48813
+http://unix.stackexchange.com/questions/129084/in-bash-how-can-i-echo-the-variable-name-not-the-variable-value
