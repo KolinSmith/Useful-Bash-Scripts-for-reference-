@@ -6,3 +6,4 @@ and decided to make it into a repo for ease of use.
 
 
 archive of shell scripts: http://www.shelldorado.com/scripts/categories.html
+another one: http://intuitive.com/wicked/wicked-cool-shell-script-library.shtml
